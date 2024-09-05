@@ -1,6 +1,6 @@
 # Kotlin Final Project, 2024 Spring
 It's a final game project of Kotlin Programming course in NYCU
-## Game Requirement
+## Game Play
 1. 在遊戲開始時，畫面上隨機產生6*6的方格，數字皆為1，顏色為以下三種隨機
     * <div style="display: inline-block; width:12px; height:12px; background-color: #EF4444;"></div> #EF4444
     * <div style="display: inline-block; width:12px; height:12px; background-color: #EAB308;"></div> #EAB308
